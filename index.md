@@ -2,5 +2,7 @@
 [About](about.md)
 
 # Description  
-This site was built for practice and has nothing very useful to say. 
+{{site.description}} 
 Nothing to see here, folks.
+
+For questions, get in touch by email: [asankey@unb.ca](mailto: {{site.email}})
