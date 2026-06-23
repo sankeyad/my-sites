@@ -1,9 +1,10 @@
 ---
-title: "index page"
+title: "Building websites in GitHub"
 author: "me"
 ---
 
-# Building websites in GitHub
+# page.title  
+page.author
 [About](about.md)
 
 # Description  
