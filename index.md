@@ -1,3 +1,8 @@
+---
+title: "index page"
+author: "me"
+---
+
 # Building websites in GitHub
 [About](about.md)
 
