@@ -3,8 +3,7 @@ layout: default
 title: "Building websites in GitHub"
 author: "me"
 ---
-
-# {{ page.title }}  
+  
 {{ page.author }}  
 [About](about.md)
 
