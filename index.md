@@ -1,8 +1,9 @@
 ---
+layout: default
 title: "Building websites in GitHub"
 author: "me"
 ---
-{% include navigation.html %}
+
 # {{ page.title }}  
 {{ page.author }}  
 [About](about.md)
