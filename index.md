@@ -12,3 +12,4 @@ author: "me"
 Nothing to see here, folks.
 
 For questions, get in touch by email: [asankey@unb.ca](mailto: {{site.email}})
+{% include footer.html %}
