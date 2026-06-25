@@ -3,8 +3,6 @@ layout: default
 title: "About"
 ---
 
-# About
-
 ## Project  
 The purpose of this project is to learn how to set up a website on GitHub.
 
