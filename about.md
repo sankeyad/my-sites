@@ -14,5 +14,5 @@ Cite this as "ha ha..."
 ## Team  
 The following:
 {% for team_member in site.team_members %}
-- {{ team_membername}}, role: {{team_member.role }}
+- {{ team_member.name}}, role: {{team_member.role }}
 {% endfor %}
