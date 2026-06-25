@@ -2,3 +2,11 @@ description: "This research project develops training materials for researchers
 wanting to learn how to build project websites in GitHub with GitHub pages."
 email: "asankey@unb.ca"
 git: "github.com/sankeyad"
+
+team_members:
+  - name: "Arabella Faunstock"
+    role: "Head Writer"
+    start_date: "1938-10-02"
+  - name: "Janet Day"
+    role: "Editor"
+    start_date: "1938-10-02"
